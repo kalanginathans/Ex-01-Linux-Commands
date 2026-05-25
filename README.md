@@ -1,7 +1,7 @@
 # Ex-01-Linux-Commands
-NAME: RUBAN K
+NAME:kalanginathan.s
 
-REG NO: 212224030023
+REG NO: 212224030014
 
 ## Aim:
 
