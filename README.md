@@ -1,6 +1,6 @@
 # Linux-Commands
 ## Name : Ezhilan N
-## Reg No : 21222403007
+## Reg No : 212224030007
 ## Aim:
 To study the execution of various Linux operating system commands.
 ## Linux:
